@@ -1,0 +1,7 @@
+%c [options]
+[options]:
+    -mode :       on/off
+    -display :    display number 
+    
+Examples:
+    screen_power_mode -mode=off -display=1
